@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @junuiui
-- 🌱 I’m currently learning CPSC
+- 🌱 I’m currently learning Computing Science 
 - 📫 How to reach me jhong980821@outlook.com
 
 <!---
