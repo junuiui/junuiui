@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @junuiui
 - 👋 My name is Junui Hong
-- 🌱 I’m currently learning Computing Science in SFU (majored in Software System)
+- 🌱 I’m a Software System major in School of Computing Science in SFU
 - 📫 How to reach me 
 -          Personal: jhong980821@outlook.com
 -          SFU mail: jha357@sfu.ca
