@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @junuiui
-- 🌱 I’m currently learning Computing Science 
-- 📫 How to reach me jhong980821@outlook.com
+- 👋 My name is Junui Hong
+- 🌱 I’m currently learning Computing Science in SFU (majored in Software System)
+- 📫 How to reach me 
+-          Personal: jhong980821@outlook.com
+-          SFU mail: jha357@sfu.ca
 
 <!---
 junuiui/junuiui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
