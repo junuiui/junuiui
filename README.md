@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @junuiui
-- 👋 My name is Junui Hong
+- 👋 My name is Jun (Junui) Hong
 - 🌱 I’m a Software System major in School of Computing Science in Simon Fraser University
 - 📫 How to reach me 
 -          Personal: jhong980821@outlook.com
