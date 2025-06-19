@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @junuiui
-- 👋 My name is Jun (Junui) Hong
-- 🌱 I’m a Software System major in School of Computing Science in Simon Fraser University
-- 📫 How to reach me 
-- Personal email Address: jhong980821@outlook.com
-- SFU email Address: jha357@sfu.ca
+- 👋 Hi, I’m @junuiui  
+- 👋 My name is Jun (Junui) Hong  
+- 🎓 I recently graduated with a BSc in Software Systems from the School of Computing Science at Simon Fraser University  
+- 💻 I’m passionate about software development, system design, and building useful digital tools  
+- 📫 How to reach me:  
+  - Personal Email: jhong980821@outlook.com
+  - Work Email: junuihong66@gmail.com
 
 <!---
 junuiui/junuiui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
