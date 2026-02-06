@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # About Me:
-### About Me<br>I am a **Software Systems** graduate from **SFU** (April 2025), currently holding a **PGWP** and actively seeking a full-time role as a **Software Engineer**. I focus on building scalable systems and efficient back-end architectures who enjoys building things that actually get used.<br>I like working close to the core logic — data structures, backend systems, and performance-minded code.<br><br>Recently, I've been pushing more into full-stack development, using React, Next.js, and TypeScript, while keeping a strong base in C++ and system-level thinking.<br><br>I care about clean code, clear reasoning, and learning by building real projects.<br><br>Always curious, always improving
+### I am a **Software Systems** graduate from **SFU** (April 2025), currently holding a **PGWP** and actively seeking a full-time role as a **Software Engineer**. I focus on building scalable systems and efficient back-end architectures who enjoys building things that actually get used.<br>I like working close to the core logic — data structures, backend systems, and performance-minded code.<br><br>Recently, I've been pushing more into full-stack development, using React, Next.js, and TypeScript, while keeping a strong base in C++ and system-level thinking.<br><br>I care about clean code, clear reasoning, and learning by building real projects.<br><br>Always curious, always improving
 
 
 ## 🌐 Socials:
