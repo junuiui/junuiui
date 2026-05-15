@@ -10,10 +10,9 @@
 ---
 
 ### 🚀 About Me
-- 🎓 **SFU Software Systems** Graduate (April 2025) based in Vancouver, BC.
-- 🛡️ Former **Sergeant & Signal Operator** in the ROK Army — bringing operational discipline to tech.
-- 🛠️ Currently specializing in **Cloud Infrastructure (AWS)**, **Containerization (Docker/K8s)**, and **CI/CD Automation**.
-- 🔍 Passionate about **SRE** principles: reducing toil, improving observability, and building resilient back-ends.
+- **SFU Software Systems** Graduate (April 2025) based in Vancouver, BC.
+- Currently specializing in **Cloud Infrastructure (AWS)**, **Containerization (Docker/K8s)**, and **CI/CD Automation**.
+- Passionate about **SRE** principles: reducing toil, improving observability, and building resilient back-ends.
 
 ---
 
