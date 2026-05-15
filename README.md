@@ -1,4 +1,4 @@
-# ☁️ Junui Hong | SWE & Cloud & DevOps Engineer & IT Operations
+# Junui Hong | SWE & Cloud & DevOps Engineer & IT Operations
 ### Focusing on Scalable Systems, Infrastructure as Code, and Operational Excellence.
 
 <p align="left">
@@ -9,14 +9,14 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 - **SFU Software Systems** Graduate (April 2025) based in Vancouver, BC.
 - Currently specializing in **Cloud Infrastructure (AWS)**, **Containerization (Docker/K8s)**, and **CI/CD Automation**.
 - Passionate about **SRE** principles: reducing toil, improving observability, and building resilient back-ends.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 #### **Infrastructure & DevOps**
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazon-aws&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=flat&logo=github-actions&logoColor=white)
