@@ -1,4 +1,4 @@
-# Junui Hong | SWE & Cloud & DevOps Engineer & IT Operations
+# Junui Hong | Cloud & DevOps Engineer & IT Operations
 ### Focusing on Scalable Systems, Infrastructure as Code, and Operational Excellence.
 
 <p align="left">
